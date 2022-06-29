@@ -1,0 +1,15 @@
+.container{
+    border: 1px solid gold ;
+}
+.mybox{
+    background-color: cadetblue;
+    font-size: 32px;
+    min-height: 50px;
+    margin-top: 10px;
+}
+.mybigbox{
+    background-color: blue;
+    font-size: 32px;
+    min-height: 120px;
+    margin-top: 10px;
+}
